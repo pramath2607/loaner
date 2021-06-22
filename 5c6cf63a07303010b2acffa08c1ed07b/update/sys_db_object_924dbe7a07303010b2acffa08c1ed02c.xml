@@ -6,7 +6,7 @@
         <caller_access/>
         <client_scripts_access>true</client_scripts_access>
         <configuration_access>false</configuration_access>
-        <create_access>false</create_access>
+        <create_access>true</create_access>
         <create_access_controls>false</create_access_controls>
         <delete_access>false</delete_access>
         <extension_model/>
@@ -25,14 +25,14 @@
         <sys_created_by>admin</sys_created_by>
         <sys_created_on>2021-06-21 09:09:18</sys_created_on>
         <sys_id>924dbe7a07303010b2acffa08c1ed02c</sys_id>
-        <sys_mod_count>3</sys_mod_count>
+        <sys_mod_count>4</sys_mod_count>
         <sys_name>Loaner Request</sys_name>
         <sys_package display_value="Loaner Request" source="x_570218_loaner_re">5c6cf63a07303010b2acffa08c1ed07b</sys_package>
         <sys_policy/>
         <sys_scope display_value="Loaner Request">5c6cf63a07303010b2acffa08c1ed07b</sys_scope>
         <sys_update_name>sys_db_object_924dbe7a07303010b2acffa08c1ed02c</sys_update_name>
         <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2021-06-22 07:42:28</sys_updated_on>
+        <sys_updated_on>2021-06-22 12:51:58</sys_updated_on>
         <update_access>true</update_access>
         <user_role/>
         <ws_access>true</ws_access>
